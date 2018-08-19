@@ -79,13 +79,13 @@ img{
 .left{
 	text-align: center;
 	flex: 1;
-	background-color: green;
+	background-color: red;
 	border: 2px solid #000;
 	margin: 2px;
 }
 .right{
 	flex: 3;
-	background-color: yellow;
+	background-color: babypink;
 	border: 2px solid #000;
 	margin: 2px;
 }
